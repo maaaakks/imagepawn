@@ -1,0 +1,10 @@
+torch>=2.4.0
+torchvision>=0.19.0       # models & transforms for vision  (pypi.org)
+
+python-chess>=1.999       # python-chess library  (pypi.org)
+pillow>=10.3.0            # image I/O & processing  (pypi.org)
+
+PyQt6>=6.9.0              # GUI framework (Qt runtime & sip auto-installed)  (pypi.org)
+
+numpy>=2.2.5              # array operations  (pypi.org)
+tqdm>=4.67.1              # progress bars  (pypi.org)

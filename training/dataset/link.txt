@@ -1,0 +1,6 @@
+To reduce the size of the project, the dataset is not included directly. However, you can download it using the link below.
+It is shared under the CC0: Public Domain license.
+
+The dataset contains 100,000 images of randomly generated chess positions, with each file named using its corresponding FEN code.
+
+https://www.kaggle.com/datasets/koryakinp/chess-positions
