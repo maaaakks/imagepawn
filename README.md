@@ -1,6 +1,6 @@
 # ImagePawn
 
-> **Convert any on‑screen chessboard into a ready‑to‑use FEN string—in a single click.**
+> **Convert any on‑screen chessboard into a ready‑to‑use FEN string - in a single click.**
 
 Whether you’re analysing a screenshot from social media, a live broadcast, or a training video, ImagePawn extracts the complete FEN in one click.
 Running on mobilenetv3 which can achieve real-time speed inference.
@@ -9,7 +9,7 @@ Running on mobilenetv3 which can achieve real-time speed inference.
 * **CLI script** for lightning‑fast FEN extraction from image files  
 * **Training script** to build or fine‑tune your own model on synthetic data  
 
-The goal: make board analysis as fast and flexible as possible—especially for content shared online.
+The goal: make board analysis as fast and flexible as possible - especially for content shared online.
 
 ![Pawnalyzer in action](images/app_example.png)
 
@@ -142,7 +142,7 @@ No extra metadata required.
 
 ## What next ?
 
-I'm working on a live mode feature that lets users select an area on the screen to be analyzed every 0.x seconds, along with real-time evaluation of the position—centipawn score and best move—using the Stockfish library.
+I'm working on a live mode feature that lets users select an area on the screen to be analyzed every 0.x seconds, along with real-time evaluation of the position - centipawn score and best move - using the Stockfish library.
 
 However, since this feature could potentially be misused and doesn't align with the core purpose of the project which is analyzing chess positions from social media images and enabling quick interaction to test certain moves. I’ve decided to remove these components from the initial 0.1 release.
 
